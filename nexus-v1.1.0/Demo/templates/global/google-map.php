@@ -1,2 +1,0 @@
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?<?php if ($live == true) { ?>key=AIzaSyC9kOt-o-2NU7_pcjkGIj4f8cKPw_xinco&amp;<?php } ?>sensor=false"></script>
-<script src="<?php echo $ROOT; ?>assets/js/google-map.js"></script>
